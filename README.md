@@ -1,5 +1,7 @@
 # Deep Visualization Toolbox
 
+https://www.youtube.com/watch?v=AgkfIQ4IGaM&feature=emb_logo
+
 This is the code required to run the Deep Visualization Toolbox, as well as to generate the neuron-by-neuron visualizations using regularized optimization.
 The toolbox and methods are described casually [here](http://yosinski.com/deepvis) and more formally in this paper:
 
